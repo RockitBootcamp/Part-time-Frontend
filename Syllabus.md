@@ -24,7 +24,6 @@ Website are created with HTML and we use CSS to make it shine. So we'll take wha
 - 1.5 Demonstrate CSS Basic Selectors
 - 1.6 Explain Wordpress Basics
 
-
  &nbsp; | Details | Map
 ----|---------|------
 Live Lecture | [Sublime Text Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Workflow/03 Sublime Text) (1hr) | 1.2
