@@ -62,18 +62,54 @@ Individual Project | Complete the Whats Http | 2.2
 Individual Project | Complete Using Linux and Git | 2.3, 2.4
 
 
-### Week 3 Responsive, Accessibility, Cross-browser testing and Best Practices
-This week we look at the skills needed to build a site that will reach as many people as possible. This includes designing for different browsers and devices. We'll also design pages that people with disabilities can use.
+### Week 3 Teams, Tools, Responsive Web, Cross-browser testing and Best Practices
+This week we look at the skills needed to work as a team using git. We will also learn more about CSS and use the developer tools found in browers. This will help us design for different browsers and devices.
 
 **Objectives**
-* 
+* 3.1 Demonstrate Github Collaboration Basics
+* 3.2 Demonstrate Chrome DevTools Basics
+* 3.3 Explain CSS Default Behavior
+* 3.4 Demonstrate Basic CSS Selector Strategies
+* 3.5 Demonstrate Reponsive Web Design
+* 3.6 Use Web Fonts
 
-### Week 4 
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | [GitHub and Collaboration](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Git/02 GitHub and Collaboration) (1hr) | 3.1
+Live Lecture | [Chrome DevTools](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Workflow/02 Chrome DevTools) (0.5hr) | 3.2
+Live Lecture | [CSS Defaults](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/03 Defaults) (1hr) | 3.3
+Live Lecture | [Basic Selector Strategy](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/04 Basic Selector Strategy) (1.5) | 3.4
+Live Lecture | Responsive Web Design, Fonts, Typography (1.5) | 3.5, 3.6
+Group Project | Complete Team Github | 3.1
+Individual Project | Complete the [Design a page](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/04%20Basic%20Selector%20Strategy/design-a-page) | 3.4
+Individual Project | Complete the Responsive Page | 3.2, 3.5, 3.6
 
-TBD
+
+### Week 4 Semantic Web, JavaScript, and Jekyll
+
+With HTML5 we have new tags and new concepts. We'll discuss these topics and learn how to apply them. We will also start to give our sites behavior by adding a bit of JavaScript. You will also create a blog using a the popular Jekyll framework.
 
 **Objectives**
-* TBD
+* 4.1 Explain HTML Semantic Tags
+* 4.2 Demonstrate HTML Form Basics
+* 4.3 Demonstrate HTML Form Validation
+* 4.4 Create Jekyll Blog
+* 4.5 Demonstrate JavaScript Basics
+* 4.6 Describe JavaScript Data Types
+* 4.7 Explain Jekyll Content
+
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | [HTML Semantic Tags](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/04 Semantic Tags) (0.5hr) | 4.1
+Live Lecture | [HTML Form Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/05 Form Basics) (0.75hr) | 4.2
+Live Lecture | [HTML Form Constraint Validation](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/06 Form Constraint Validation) (0.75hr) | 4.3
+Live Lecture | Getting Started with Jekyll (1hr) | 4.4
+Live Lecture | [JavaScript Basic Concepts](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/01 Basic Concepts) (0.75) | 4.5
+Live Lecture | [JavaScript Data Types](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/02 Data Types) (0.75) | 4.6
+Live Lecture | Jekyll Content (1hr) | 4.7
+Individual Project | Complete the HTML Forms | 4.1-4.3
+Individual Project | Complete the Sunday Chores project | 4.5, 4.7
+Individual Project | Complete the Jekyll Blogg project | 4.4, 4.7
 
 ### Week 5
 
