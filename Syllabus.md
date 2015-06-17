@@ -17,12 +17,12 @@ This 10 week, instructor-led, course is targeted to learners who would like to d
 Website are created with HTML and we use CSS to make it shine. So we'll take what you've learned during the pre-work and learn more about html and add some color. By the end of the week you will have built a simple webpage that actually look good. We'll also lay the groundwork so you know fundamental web development concepts.
 
 **Objectives**
-- 1.1 Demonstrate HTML Basic Concepts
-- 1.2 Describe Sublime Text Basics
-- 1.3 Demonstrate HTML Nesting
-- 1.4 Demonstrate HTML Attributes
-- 1.5 Demonstrate CSS Basic Selectors
-- 1.6 Explain Wordpress Basics
+* 1.1 Demonstrate HTML Basic Concepts
+* 1.2 Describe Sublime Text Basics
+* 1.3 Demonstrate HTML Nesting
+* 1.4 Demonstrate HTML Attributes
+* 1.5 Demonstrate CSS Basic Selectors
+* 1.6 Explain Wordpress Basics
 
  &nbsp; | Details | Map
 ----|---------|------
