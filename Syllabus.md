@@ -34,7 +34,7 @@ Live Lecture | [HTML Nesting](https://github.com/RockitBootcamp/Student-Resource
 Live Lecture | [HTML Attributes](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/03 Attributes) (1hr) | 1.4
 Live Lecture | Wordpress Basics II (1hr) | 1.6
 Weekly Review |	Complete weekly review |1.1-1.6
-Individual Project | Complete the My Bio Page | 1.1-1.6
+Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML%20My%20Bio) | 1.1-1.6
 Individual Project | Complete the Choose the Selector | 1.1-1.6
 
 
@@ -110,12 +110,34 @@ Individual Project | Complete the HTML Forms | 4.1-4.3
 Individual Project | Complete the Sunday Chores project | 4.5, 4.7
 Individual Project | Complete the Jekyll Blogg project | 4.4, 4.7
 
-### Week 5
+### Week 5 Functions, Logic, and Object Literals
 
 TBD
 
 **Objectives**
-* TBD
+* 5.1 Demonstrate JavaScript Basic Operator
+* 5.2 Demonstrate JavaScript Object Literals
+* 5.3 Explain Anonymous Functions
+* 5.4 Create User Defined Functions
+* 5.5 Demonstrate Jekyll Customization
+* 5.6 Demonstrate JavaScript Basic Logic
+* 5.7 Use JavaScript Built-in Methods and Properties
+* 5.8 Demonstrate Jekyll Deployment
+
+
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | [JavaScript Basic Operators](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/03 Basic Operators) (0.5hr) | 5.1
+Live Lecture | [JavaScript Object Literals I](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/05 Object Literals I) (0.5) | 5.2
+Live Lecture | [Callback and Anonymous Functions](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/06 Callback and Anonymous Functions) (0.5) | 5.3
+Live Lecture | [JavaScript User Defined Functions](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/04 User Defined Functions) (1hr) | 5.4
+Live Lecture | Jekyll Customization (0.5hr) | 5.5
+Live Lecture | [JavaScript Basic Logic](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/08 Basic Logic) (1.5hr) | 5.6
+Live Lecture | [Built-in Methods and Properties](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/09 Built-in Methods and Properties) (0.5) | 5.7
+Live Lecture | Jekyll Deployment (1hr) | 5.8
+Individual Project | Complete the Functions Project  | 5.1-5.4
+Individual Project | Complete the Elevator Project | 5.6, 5.7
+Individual Project | Complete the Jekyll Deployment Project | 5.5, 5.8
 
 ### Week 6 TBD
 
