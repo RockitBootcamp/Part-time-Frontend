@@ -33,9 +33,9 @@ Live Lecture | [Basic Selectors](https://github.com/RockitBootcamp/Student-Resou
 Live Lecture | [HTML Nesting](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/02 Nesting) (0.5hr) | 1.3
 Live Lecture | [HTML Attributes](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/03 Attributes) (1hr) | 1.4
 Live Lecture | Wordpress Basics II (1hr) | 1.6
-Weekly Review |	Complete weekly review |1.1-1.6
-Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML%20My%20Bio) | 1.1-1.6
-Individual Project | Complete the Choose the Selector | 1.1-1.6
+Weekly Review |	Complete weekly review |1.1-1.5
+Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML%20My%20Bio) | 1.1-1.5
+Individual Project | Complete the Choose the Selector | 1.5
 
 
 ### Week 2 More HTML/CSS and Debugging
