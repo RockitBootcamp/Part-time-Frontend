@@ -17,22 +17,22 @@ This 10 week, instructor-led, course is targeted to learners who would like to d
 Website are created with HTML and we use CSS to make it shine. So we'll take what you've learned during the pre-work and learn more about html and add some color. By the end of the week you will have built a simple webpage that actually look good. We'll also lay the groundwork so you know fundamental web development concepts.
 
 **Objectives**
-* 1.1 Demonstrate HTML Basic Concepts
-* 1.2 Describe Sublime Text Basics
-* 1.3 Demonstrate HTML Nesting
-* 1.4 Demonstrate HTML Attributes
-* 1.5 Demonstrate CSS Basic Selectors
-* 1.6 Explain Wordpress Basics
+- 1.1 Demonstrate HTML Basic Concepts
+- 1.2 Describe Sublime Text Basics
+- 1.3 Demonstrate HTML Nesting
+- 1.4 Demonstrate HTML Attributes
+- 1.5 Demonstrate CSS Basic Selectors
+- 1.6 Explain Wordpress Basics
 
  &nbsp; | Details | Map
 ----|---------|------
 Live Lecture | [Sublime Text Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Workflow/03 Sublime Text) (1hr) | 1.2
 Live Lecture | [HTML Basic Concepts](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/01 Basic Concepts) (1hr) | 1.1
-Live Lecture | Wordpress Basics (1hr) | 1.6
+Live Lecture | [Wordpress Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Wordpress/01 Basic Concepts) (1hr) | 1.6
 Live Lecture | [Basic Selectors](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/01 Basic Selectors) (0.5hr) | 1.5
 Live Lecture | [HTML Nesting](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/02 Nesting) (0.5hr) | 1.3
 Live Lecture | [HTML Attributes](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/03 Attributes) (1hr) | 1.4
-Live Lecture | Wordpress Basics II (1hr) | 1.6
+Live Lecture | [Wordpress Basics II](https://github.com/RockitBootcamp/Student-Resources/blob/master/Wordpress/02 Basic Concepts II) (1hr) | 1.6
 Weekly Review |	Complete weekly review |1.1-1.6
 Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML%20My%20Bio) | 1.1-1.6
 Individual Project | Complete the Choose the Selector | 1.1-1.6
