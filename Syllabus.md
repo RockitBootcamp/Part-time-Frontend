@@ -34,8 +34,8 @@ Live Lecture | [HTML Nesting](https://github.com/RockitBootcamp/Student-Resource
 Live Lecture | [HTML Attributes](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/03 Attributes) (1hr) | 1.4
 Live Lecture | [Wordpress Basics II](https://github.com/RockitBootcamp/Student-Resources/blob/master/Wordpress/02 Basics Concepts II) (1hr) | 1.6
 Weekly Review |	[Complete weekly review](Week 1 Reflection.md) |1.1-1.6
-Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML%20My%20Bio) | 1.1-1.5
-Individual Project | Complete the [Choose the Selector](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS%20Choose%20the%20Selector) | 1.5
+Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML My Bio) | 1.1-1.5
+Individual Project | Complete the [Choose the Selector](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS Choose the Selector) | 1.5
 
 ### Week 2 More HTML/CSS and Debugging
 
@@ -55,9 +55,9 @@ Live Lecture | [Basic HTTP Concepts](https://github.com/RockitBootcamp/Student-R
 Live Lecture | [Wordpress Posts](https://github.com/RockitBootcamp/Student-Resources/blob/master/Wordpress/03 Posts) (0.5hr) | 2.5
 Live Lecture | [Unix Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Unix/01 Unix Basics) (1hr) | 2.3
 Live Lecture | [Git Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Git/01 Git Basics) (1hr) | 2.4
-Individual Project | Complete the Colorful CSS | 2.1
+Individual Project | Complete the [Colorful CSS](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS Rainbow) | 2.1
 Individual Project | Complete the Whats HTTP | 2.2
-Individual Project | Complete [Using Linux and Git](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/Unix%20and%20Git%20Basics) | 2.3, 2.4
+Individual Project | Complete [Using Linux and Git](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/Unix and Git Basics) | 2.3, 2.4
 
 
 ### Week 3 Teams, Tools, Responsive Web, Cross-browser testing and Best Practices
@@ -79,7 +79,7 @@ Live Lecture | [CSS Defaults](https://github.com/RockitBootcamp/Student-Resource
 Live Lecture | [Basic Selector Strategy](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/04 Basic Selector Strategy) (1.5) | 3.4
 Live Lecture | Responsive Web Design, Fonts, Typography (1.5) | 3.5, 3.6
 Group Project | Complete Team Github | 3.1
-Individual Project | Complete the [Design a page](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/04%20Basic%20Selector%20Strategy/design-a-page) | 3.4
+Individual Project | Complete the [Design a page](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/04 Basic Selector Strategy/design-a-page) | 3.4
 Individual Project | Complete the Responsive Page | 3.2, 3.5, 3.6
 
 
