@@ -1,4 +1,4 @@
-# Part-time Front-end Syllabus 
+# Part-time Front-end Syllabus
 
 ## Overview
 This 10 week, instructor-led, course is targeted to learners who would like to develop skills in front-end web technologies. The course is targeted primarily to individuals looking to learn or advance their skills in HTML5, CSS3, JavaScript and front-end frameworks utilized in developing web applications. In this fast-paced, project-based, 10-week course you will learn new skills for web application front-end design and development. This innovative approach supports a new accelerated learning model approach, where a learner will participate in an intensive training course over the period of 10 weeks. This coding bootcamp will teach participants with minimal to no IT backgrounds how to write computer code on an accelerated time frame. Students will complete 60 instructional hours and receive a letter of completion.
@@ -35,7 +35,7 @@ Live Lecture | [HTML Attributes](https://github.com/RockitBootcamp/Student-Resou
 Live Lecture | Wordpress Basics II (1hr) | 1.6
 Weekly Review |	Complete weekly review |1.1-1.5
 Individual Project | Complete the [My Bio Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML%20My%20Bio) | 1.1-1.5
-Individual Project | Complete the Choose the Selector | 1.5
+Individual Project | Complete the [Choose the Selector](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS%20Choose%20the%20Selector) | 1.5
 
 
 ### Week 2 More HTML/CSS and Debugging
@@ -146,13 +146,13 @@ TBD
 **Objectives**
 * TBD
 
-### Week 7 
+### Week 7
 TBD
 
 ### Week 8
 TBD
 
-### Week 9 
+### Week 9
 TBD
 
 ### Week 10
