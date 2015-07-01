@@ -52,7 +52,7 @@ You thought you knew HTML and CSS but we're just getting started. We'll explain 
 ----|---------|------
 Live Lecture | [CSS Basic Properties](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/02 Basic Properties) (1.5hr) | 2.1
 Live Lecture | [Basic HTTP Concepts](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Web/01 Basic HTTP Concepts) (0.5hr) | 2.2
-Live Lecture | Wordpress Posts (0.5hr) | 2.5
+Live Lecture | [Wordpress Posts](https://github.com/RockitBootcamp/Student-Resources/blob/master/Wordpress/03 Posts) (0.5hr) | 2.5
 Live Lecture | [Unix Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Unix/01 Unix Basics) (1hr) | 2.3
 Live Lecture | [Git Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Git/01 Git Basics) (1hr) | 2.4
 Individual Project | Complete the Colorful CSS | 2.1
