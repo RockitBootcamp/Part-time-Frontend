@@ -56,7 +56,7 @@ Live Lecture | [Wordpress Posts](https://github.com/RockitBootcamp/Student-Resou
 Live Lecture | [Unix Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Unix/01 Unix Basics) (1hr) | 2.3
 Live Lecture | [Git Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Git/01 Git Basics) (1hr) | 2.4
 Individual Project | Complete the [Colorful CSS](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS Rainbow) | 2.1
-Individual Project | Complete the Whats HTTP | 2.2
+Individual Project | Complete the [Whats HTTP](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTTP Basics) | 2.2
 Individual Project | Complete [Using Linux and Git](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/Unix and Git Basics) | 2.3, 2.4
 
 
