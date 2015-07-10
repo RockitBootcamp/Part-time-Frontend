@@ -22,6 +22,7 @@ Website are created with HTML and we use CSS to make it shine. So we'll take wha
 - 1.3 Demonstrate HTML Nesting
 - 1.4 Demonstrate HTML Attributes
 - 1.5 Demonstrate CSS Basic Selectors
+- 1.6 Explain Wordpress Basics
 
  &nbsp; | Details | Map
 ----|---------|------
