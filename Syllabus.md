@@ -143,16 +143,51 @@ Individual Project | Complete the Jekyll Deployment Project | 5.5, 5.8
 TBD
 
 **Objectives**
-* TBD
+TBD
+
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | [CSS Box Model](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/05%20Box%20Model) (1hr) | 6.x
+Live Lecture | [CSS Resets](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/06%20Resets) (1hr) | 6.x
+Live Lecture | [CSS Flow and Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Flow%20and%20Floats) (1hr) | 6.x
+Live Lecture | [CSS SASS Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/Sass/01%20Sass%20Basics%20I) (1hr) | 6.x
+Individual Project | TBD | 6.x
+Individual Project | TBD | 6.x
+
 
 ### Week 7
 TBD
 
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | JavaScript Truthy vs Falsy (See video) (0.25hr) | 7.x
+Live Lecture | [JavaScript Objects I](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/05%20Objects%20I) (1hr) | 7.x
+Live Lecture | [JavaScript Objects II](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/07%20Objects%20II) (1hr) | 7.x
+Live Lecture | [JavaScript Scope & Context](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/13%20Scope) (1hr) | 7.x
+Individual Project | TBD | 7.x
+Individual Project | TBD | 7.x
+
+
+
 ### Week 8
 TBD
+
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | [JavaScript DOM and Document Methods](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/10%20DOM%20and%20Document%20Methods) (1hr) | 8.x
+Live Lecture | [JavaScript Arrays](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/11%20Arrays) (1hr) | 8.x
+Live Lecture | [JavaScript Loops](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/12%20Loops) (1hr) | 8.x
+Live Lecture | JavaScript Ajax, $.getJSON() (1hr) | 8.x
+
 
 ### Week 9
 TBD
 
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | JavaScript Workign with Differnt API's (2hr) | 8.x
+
 ### Week 10
 TBD
+
+- final project
