@@ -77,7 +77,7 @@ Live Lecture | [GitHub and Collaboration](https://github.com/RockitBootcamp/Stud
 Live Lecture | [Chrome DevTools](https://github.com/RockitBootcamp/Student-Resources/blob/master/Misc/Workflow/02 Chrome DevTools) (0.5hr) | 3.2
 Live Lecture | [CSS Defaults](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/03 Defaults) (1hr) | 3.3
 Live Lecture | [Basic Selector Strategy](https://github.com/RockitBootcamp/Student-Resources/blob/master/CSS/04 Basic Selector Strategy) (1.5) | 3.4
-Live Lecture | Responsive Web Design, Fonts, Typography (1.5) | 3.5, 3.6
+Live Lecture | [Responsive Web Design](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/13 Responsive Design), [Fonts, Typography](https://github.com/RockitBootcamp/Student-Resources/blob/master/Tooling.md) (1.5) | 3.5, 3.6
 Group Project | Complete Team Github | 3.1
 Individual Project | Complete the [Design a page](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/04 Basic Selector Strategy/design-a-page) | 3.4
 Individual Project | Complete the Responsive Page | 3.2, 3.5, 3.6
@@ -185,7 +185,7 @@ TBD
 
 &nbsp; | Details | Map
 ----|---------|------
-Live Lecture | JavaScript Workign with Differnt API's (2hr) | 8.x
+Live Lecture | JavaScript Working with Different API's (2hr) | 8.x
 
 ### Week 10
 TBD
