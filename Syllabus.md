@@ -80,7 +80,7 @@ Live Lecture | [Basic Selector Strategy](https://github.com/RockitBootcamp/Stude
 Live Lecture | [Responsive Web Design](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/13 Responsive Design), [Fonts, Typography](https://github.com/RockitBootcamp/Student-Resources/blob/master/Tooling.md) (1.5) | 3.5, 3.6
 Group Project | Complete Team Github | 3.1
 Individual Project | Complete the [Design a page](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/04 Basic Selector Strategy/design-a-page) | 3.4
-Individual Project | Complete the Responsive Page | 3.2, 3.5, 3.6
+Individual Project | Complete the [Responsive Page](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS Responsive) | 3.2, 3.5, 3.6
 
 
 ### Week 4 Semantic Web, JavaScript, and Jekyll
