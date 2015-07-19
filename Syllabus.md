@@ -101,10 +101,10 @@ With HTML5 we have new tags and new concepts. We'll discuss these topics and lea
 Live Lecture | [HTML Semantic Tags](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/04 Semantic Tags) (0.5hr) | 4.1
 Live Lecture | [HTML Form Basics](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/05 Form Basics) (0.75hr) | 4.2
 Live Lecture | [HTML Form Constraint Validation](https://github.com/RockitBootcamp/Student-Resources/blob/master/HTML/06 Form Constraint Validation) (0.75hr) | 4.3
-Live Lecture | Getting Started with Jekyll (1hr) | 4.4
+Live Lecture | [Getting Started with Jekyll](https://github.com/RockitBootcamp/Student-Resources/blob/master/Jekyll/01 Install and Basic Concepts) (1hr) | 4.4
 Live Lecture | [JavaScript Basic Concepts](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/01 Basic Concepts) (0.75) | 4.5
 Live Lecture | [JavaScript Data Types](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/02 Data Types) (0.75) | 4.6
-Live Lecture | Jekyll Content (1hr) | 4.7
+Live Lecture | [Jekyll Content](https://github.com/RockitBootcamp/Student-Resources/blob/master/Jekyll/02 Templates and Markdown) (1hr) | 4.7
 Individual Project | Complete the HTML Forms | 4.1-4.3
 Individual Project | Complete the Sunday Chores project | 4.5, 4.7
 Individual Project | Complete the Jekyll Blog project | 4.4, 4.7
