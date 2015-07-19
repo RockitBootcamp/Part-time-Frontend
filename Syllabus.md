@@ -130,10 +130,10 @@ Live Lecture | [JavaScript Basic Operators](https://github.com/RockitBootcamp/St
 Live Lecture | [JavaScript Object Literals I](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/05 Object Literals I) (0.5) | 5.2
 Live Lecture | [Callback and Anonymous Functions](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/06 Callback and Anonymous Functions) (0.5) | 5.3
 Live Lecture | [JavaScript User Defined Functions](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/04 User Defined Functions) (1hr) | 5.4
-Live Lecture | Jekyll Customization (0.5hr) | 5.5
+Live Lecture | [Jekyll Customization](https://github.com/RockitBootcamp/Student-Resources/tree/master/Jekyll/01 Install and Basic Concepts) (0.5hr) | 5.5
 Live Lecture | [JavaScript Basic Logic](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/08 Basic Logic) (1.5hr) | 5.6
 Live Lecture | [Built-in Methods and Properties](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/09 Built-in Methods and Properties) (0.5) | 5.7
-Live Lecture | Jekyll Deployment (1hr) | 5.8
+Live Lecture | [Jekyll Deployment](https://github.com/RockitBootcamp/Student-Resources/tree/master/Jekyll/04 Deployment) (1hr) | 5.8
 Individual Project | Complete the Functions Project  | 5.1-5.4
 Individual Project | Complete the Elevator Project | 5.6, 5.7
 Individual Project | Complete the Jekyll Deployment Project | 5.5, 5.8
