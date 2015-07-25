@@ -105,9 +105,9 @@ Live Lecture | [Getting Started with Jekyll](https://github.com/RockitBootcamp/S
 Live Lecture | [JavaScript Basic Concepts](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/01 Basic Concepts) (0.75) | 4.5
 Live Lecture | [JavaScript Data Types](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/02 Data Types) (0.75) | 4.6
 Live Lecture | [Jekyll Content](https://github.com/RockitBootcamp/Student-Resources/blob/master/Jekyll/02 Templates and Markdown) (1hr) | 4.7
-Individual Project | Complete the HTML Forms | 4.1-4.3
+Individual Project | Complete the [HTML Forms](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML Forms) | 4.1-4.3
 Individual Project | Complete the Sunday Chores project | 4.5, 4.7
-Individual Project | Complete the Jekyll Blog project | 4.4, 4.7
+Individual Project | Complete the [Jekyll Blog project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/Jekyll Blog) | 4.4, 4.7
 
 ### Week 5 Functions, Logic, and Object Literals
 
