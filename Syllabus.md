@@ -136,7 +136,7 @@ Live Lecture | [Built-in Methods and Properties](https://github.com/RockitBootca
 Live Lecture | [Jekyll Deployment](https://github.com/RockitBootcamp/Student-Resources/tree/master/Jekyll/04 Deployment) (1hr) | 5.8
 Individual Project | Complete the [Functions Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/JavaScript%20Functions)  | 5.1-5.4
 Individual Project | Complete the [Elevator Project](https://github.com/RockitBootcamp/Student-Resources/tree/master/PHP/04%20Basic%20Logic) | 5.6, 5.7
-Individual Project | Complete the Jekyll Deployment Project | 5.5, 5.8
+Individual Project | Complete the [Jekyll Deployment Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/Jekyll Blog) | 5.5, 5.8
 
 ### Week 6 Core CSS and jQuery
 
@@ -157,43 +157,74 @@ Live Lecture | [CSS Box Model](https://github.com/RockitBootcamp/Student-Resourc
 Live Lecture | [CSS Resets](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/06%20Resets) (1hr) | 6.x
 Live Lecture | [CSS Flow and Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Flow%20and%20Floats) (1hr) | 6.3, 6.4
 Live Lecture | [jQuery Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/01%20jQuery%20Basics) (1hr) | 6.5, 6.6
-Individual Project | Complete the CSS Media Objects Project | 6.1-4
+Individual Project | Complete the [CSS Media Objects Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS Media Objects) | 6.1-4
 Individual Project | Complete the [jQuery Basics Exercise](https://github.com/RockitBootcamp/Student-Resources/blob/master/jQuery/01%20jQuery%20Basics/Exercises.md) | 6.5-6
 
 
-### Week 7
-TBD
+### Week 7 Dynamic Pages, Working with the DOM and Ajax
+
+We will take a look at how we can use JavaScript to inspect and manipulate the DOM. We will also fetch data to include in our page. 
+
+**Objectives**
+* 7.1 Demonstrate `document` methods to fetch `elements`
+* 7.2 Demonstrate `element` methods and properties
+* 7.3 Demonstrate array creation syntax
+* 7.4 Demonstrate working with arrays
+* 7.5 Demonstrate JavaScript loops (while, for, for-in, forEach)
+* 7.6 Demonstrate jQuery's `$.ajax()` methods
 
 &nbsp; | Details | Map
 ----|---------|------
-Live Lecture | JavaScript Truthy vs Falsy (See video) (0.25hr) | 7.x
-Live Lecture | [JavaScript Objects I](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/05%20Objects%20I) (1hr) | 7.x
-Live Lecture | [JavaScript Objects II](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/07%20Objects%20II) (1hr) | 7.x
-Live Lecture | [JavaScript Scope & Context](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/13%20Scope) (1hr) | 7.x
-Individual Project | TBD | 7.x
-Individual Project | TBD | 7.x
+Live Lecture | [JavaScript DOM and Document Methods](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/10%20DOM%20and%20Document%20Methods) (1hr) | 7.1-2
+Live Lecture | [JavaScript Arrays](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/11%20Arrays) (1hr) | 7.3-4
+Live Lecture | [JavaScript Loops](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/12%20Loops) (1hr) | 7.5
+Live Lecture | [JavaScript Ajax](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/05%20AJAX) (1hr) | 7.6
+Individual Project | Complete the [Manipulate the Dom Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/JavaScript DOM) | 7.1-5
+Individual Project | Complete the [jQuery Twitter Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/jQuery Twitter v1) | 7.1-6
 
 
+### Week 8 Objects and Events
 
-### Week 8
-TBD
+This week we tackle reusing code and data with Objects. We also hook into the DOM to make Websites that react to user interaction.
 
-&nbsp; | Details | Map
-----|---------|------
-Live Lecture | [JavaScript DOM and Document Methods](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/10%20DOM%20and%20Document%20Methods) (1hr) | 8.x
-Live Lecture | [JavaScript Arrays](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/11%20Arrays) (1hr) | 8.x
-Live Lecture | [JavaScript Loops](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/12%20Loops) (1hr) | 8.x
-Live Lecture | JavaScript Ajax, $.getJSON() (1hr) | 8.x
-
-
-### Week 9
-TBD
+**Objectives**
+* 8.1 Demonstrate Object Literal Creation Syntax
+* 8.2 Use Object Properties
+* 8.3 Use `this` to access parts of an object
+* 8.4 Demonstrate a jQuery events with `.on()` method and with event's specific method:
 
 &nbsp; | Details | Map
 ----|---------|------
-Live Lecture | JavaScript Working with Different API's (2hr) | 8.x
+Live Lecture | JavaScript Truthy vs Falsy (See video) (0.25hr) | 8.x
+Live Lecture | [JavaScript Objects I](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/05%20Objects%20I) (1hr) | 8.1-2
+Live Lecture | [JavaScript Objects II](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/07%20Objects%20II) (1hr) | 8.3
+Live Lecture | [JQuery Events](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/02%20Events) (1hr) | 8.4
+Individual Project | Complete the [JavaScript Objects project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/JavaScript Objects) | 8.1-3
+Individual Project | Complete the [jQuery ToDo project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/jQuery ToDo) | 8.4
 
-### Week 10
-TBD
 
-- final project
+### Week 9 Working with APIs
+
+So far we have used data we control. This week we will look at api's offered by other companies and incorporate it into our pages.
+
+**Objectives**
+* 9.1 Fetch data from External Sites
+
+&nbsp; | Details | Map
+----|---------|------
+Live Lecture | JavaScript Working with Different API's (2hr) | 9.1
+Individual Project | Continue working on the [jQuery ToDo project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/jQuery ToDo) | 8.4
+
+### Week 10 Capstone Project
+
+In this final week we will take everything we have learned and create our own project using HTML, CSS, Jekyll, to fetch external data and host it on Github Pages.
+
+**Objectives**
+* Develop Final Project
+* Showcase Final Project
+
+&nbsp; | Details | Map
+----|---------|------
+Lab Time | Work on Final Project (3hr) | 10.1
+Live Lecture | Final Project Readout (3hr) | 10.2
+
