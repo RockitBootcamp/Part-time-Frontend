@@ -106,12 +106,12 @@ Live Lecture | [JavaScript Basic Concepts](https://github.com/RockitBootcamp/Stu
 Live Lecture | [JavaScript Data Types](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/02 Data Types) (0.75) | 4.6
 Live Lecture | [Jekyll Content](https://github.com/RockitBootcamp/Student-Resources/blob/master/Jekyll/02 Templates and Markdown) (1hr) | 4.7
 Individual Project | Complete the [HTML Forms](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/HTML Forms) | 4.1-4.3
-Individual Project | Complete the Sunday Chores project | 4.5, 4.7
+Individual Project | Complete the [Sunday Chores project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/JavaScript%20Basics) | 4.5, 4.7
 Individual Project | Complete the [Jekyll Blog project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/Jekyll Blog) | 4.4, 4.7
 
 ### Week 5 Functions, Logic, and Object Literals
 
-TBD
+This week we dive into the heart of JavaScript and learn how to reuse code with functions. We will also see how to customize and deploy our Jekyll blog.
 
 **Objectives**
 * 5.1 Demonstrate JavaScript Basic Operator
@@ -134,25 +134,31 @@ Live Lecture | [Jekyll Customization](https://github.com/RockitBootcamp/Student-
 Live Lecture | [JavaScript Basic Logic](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/08 Basic Logic) (1.5hr) | 5.6
 Live Lecture | [Built-in Methods and Properties](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/09 Built-in Methods and Properties) (0.5) | 5.7
 Live Lecture | [Jekyll Deployment](https://github.com/RockitBootcamp/Student-Resources/tree/master/Jekyll/04 Deployment) (1hr) | 5.8
-Individual Project | Complete the Functions Project  | 5.1-5.4
-Individual Project | Complete the Elevator Project | 5.6, 5.7
+Individual Project | Complete the [Functions Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/JavaScript%20Functions)  | 5.1-5.4
+Individual Project | Complete the [Elevator Project](https://github.com/RockitBootcamp/Student-Resources/tree/master/PHP/04%20Basic%20Logic) | 5.6, 5.7
 Individual Project | Complete the Jekyll Deployment Project | 5.5, 5.8
 
-### Week 6 TBD
+### Week 6 Core CSS and jQuery
 
-TBD
+This week we learn how to use jQuery to manipulate the DOM. We also learn important aspects of CSS that will allow us to design amazing websites.
 
 **Objectives**
-TBD
+* Explain the layers of the box model
+* Demonstrate Collapsing Margins
+* Demonstrate Float Syntax
+* Explain float clearing approaches
+* Demonstrate common jQuery Methods
+* Demonstrate Document Readiness with jQuery
+
 
 &nbsp; | Details | Map
 ----|---------|------
 Live Lecture | [CSS Box Model](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/05%20Box%20Model) (1hr) | 6.x
 Live Lecture | [CSS Resets](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/06%20Resets) (1hr) | 6.x
 Live Lecture | [CSS Flow and Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Flow%20and%20Floats) (1hr) | 6.x
-Live Lecture | [CSS SASS Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/Sass/01%20Sass%20Basics%20I) (1hr) | 6.x
-Individual Project | TBD | 6.x
-Individual Project | TBD | 6.x
+Live Lecture | [jQuery Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/01%20jQuery%20Basics) (1hr) | 6.x
+Individual Project | Complete the CSS Media Objects Project | 6.x
+Individual Project | Complete the [jQuery Basics Exercise](https://github.com/RockitBootcamp/Student-Resources/blob/master/jQuery/01%20jQuery%20Basics/Exercises.md) | 6.x
 
 
 ### Week 7
