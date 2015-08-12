@@ -143,22 +143,22 @@ Individual Project | Complete the Jekyll Deployment Project | 5.5, 5.8
 This week we learn how to use jQuery to manipulate the DOM. We also learn important aspects of CSS that will allow us to design amazing websites.
 
 **Objectives**
-* Explain the layers of the box model
-* Demonstrate Collapsing Margins
-* Demonstrate Float Syntax
-* Explain float clearing approaches
-* Demonstrate common jQuery Methods
-* Demonstrate Document Readiness with jQuery
+* 6.1 Explain the layers of the box model
+* 6.2 Demonstrate Collapsing Margins
+* 6.3 Demonstrate Float Syntax
+* 6.4 Explain float clearing approaches
+* 6.5 Demonstrate common jQuery Methods
+* 6.6 Demonstrate Document Readiness with jQuery
 
 
 &nbsp; | Details | Map
 ----|---------|------
-Live Lecture | [CSS Box Model](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/05%20Box%20Model) (1hr) | 6.x
+Live Lecture | [CSS Box Model](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/05%20Box%20Model) (1hr) | 6.1, 6.2
 Live Lecture | [CSS Resets](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/06%20Resets) (1hr) | 6.x
-Live Lecture | [CSS Flow and Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Flow%20and%20Floats) (1hr) | 6.x
-Live Lecture | [jQuery Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/01%20jQuery%20Basics) (1hr) | 6.x
-Individual Project | Complete the CSS Media Objects Project | 6.x
-Individual Project | Complete the [jQuery Basics Exercise](https://github.com/RockitBootcamp/Student-Resources/blob/master/jQuery/01%20jQuery%20Basics/Exercises.md) | 6.x
+Live Lecture | [CSS Flow and Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Flow%20and%20Floats) (1hr) | 6.3, 6.4
+Live Lecture | [jQuery Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/01%20jQuery%20Basics) (1hr) | 6.5, 6.6
+Individual Project | Complete the CSS Media Objects Project | 6.1-4
+Individual Project | Complete the [jQuery Basics Exercise](https://github.com/RockitBootcamp/Student-Resources/blob/master/jQuery/01%20jQuery%20Basics/Exercises.md) | 6.5-6
 
 
 ### Week 7
