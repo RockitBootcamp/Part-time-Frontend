@@ -127,7 +127,7 @@ This week we dive into the heart of JavaScript and learn how to reuse code with 
 &nbsp; | Details | Map
 ----|---------|------
 Live Lecture | [JavaScript Basic Operators](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/03 Basic Operators) (0.5hr) | 5.1
-Live Lecture | [JavaScript Object Literals I](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/05 Object Literals I) (0.5) | 5.2
+Live Lecture | [JavaScript Object Literals I](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/05 Objects I) (0.5) | 5.2
 Live Lecture | [Callback and Anonymous Functions](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/06 Callback and Anonymous Functions) (0.5) | 5.3
 Live Lecture | [JavaScript User Defined Functions](https://github.com/RockitBootcamp/Student-Resources/blob/master/JavaScript/04 User Defined Functions) (1hr) | 5.4
 Live Lecture | [Jekyll Customization](https://github.com/RockitBootcamp/Student-Resources/tree/master/Jekyll/01 Install and Basic Concepts) (0.5hr) | 5.5
