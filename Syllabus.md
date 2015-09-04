@@ -155,7 +155,7 @@ This week we learn how to use jQuery to manipulate the DOM. We also learn import
 ----|---------|------
 Live Lecture | [CSS Box Model](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/05%20Box%20Model) (1hr) | 6.1, 6.2
 Live Lecture | [CSS Resets](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/06%20Resets) (1hr) | 6.x
-Live Lecture | [CSS Flow and Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Flow%20and%20Floats) (1hr) | 6.3, 6.4
+Live Lecture | [CSS Flex](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/08%20Layout%20with%20Flexbox) and [Floats](https://github.com/RockitBootcamp/Student-Resources/tree/master/CSS/09%20Layout%20with%20Floats) (1hr) | 6.3, 6.4
 Live Lecture | [jQuery Basics](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/01%20jQuery%20Basics) (1hr) | 6.5, 6.6
 Individual Project | Complete the [CSS Media Objects Project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/CSS Media Objects) | 6.1-4
 Individual Project | Complete the [jQuery Basics Exercise](https://github.com/RockitBootcamp/Student-Resources/blob/master/jQuery/01%20jQuery%20Basics/Exercises.md) | 6.5-6
