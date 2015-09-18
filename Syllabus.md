@@ -198,7 +198,7 @@ This week we tackle reusing code and data with Objects. We also hook into the DO
 Live Lecture | JavaScript Truthy vs Falsy (See video) (0.25hr) | 8.x
 Live Lecture | [JavaScript Objects I](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/05%20Objects%20I) (1hr) | 8.1-2
 Live Lecture | [JavaScript Objects II](https://github.com/RockitBootcamp/Student-Resources/tree/master/JavaScript/07%20Objects%20II) (1hr) | 8.3
-Live Lecture | [JQuery Events](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/02%20Events) (1hr) | 8.4
+Live Lecture | [JQuery Events](https://github.com/RockitBootcamp/Student-Resources/tree/master/jQuery/02%20jQuery%20Events) (1hr) | 8.4
 Individual Project | Complete the [JavaScript Objects project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/JavaScript Objects) | 8.1-3
 Individual Project | Complete the [jQuery ToDo project](https://github.com/RockitBootcamp/Phoenix/tree/master/Projects/jQuery ToDo) | 8.4
 
